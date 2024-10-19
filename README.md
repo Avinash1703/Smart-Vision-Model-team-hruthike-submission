@@ -44,7 +44,7 @@ SMART VISION is a web application designed to help users detect the freshness of
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 2. Open the provided local URL in your browser.
