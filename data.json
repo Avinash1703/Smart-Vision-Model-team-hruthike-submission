@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 24,
+            "sex": "Female",
+            "password": "12345678"
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "12345"
+        },
+        {
+            "name": "abhi",
+            "email": "abhi@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "abhi1703"
+        },
+        {
+            "name": "abhi",
+            "email": "abhi@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "abhi1703"
+        }
+    ]
+}
